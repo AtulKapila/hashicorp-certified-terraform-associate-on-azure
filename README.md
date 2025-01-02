@@ -1,0 +1,1 @@
+# hashicorp-certified-terraform-associate-on-azure
